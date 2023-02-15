@@ -77,6 +77,9 @@ The Agent will include a simple web interface that will allow the user to
 - Start subscribing to rumors
 - Stop subscribing to rumors
 
+Additional Documentation:
+
+[loch_flow_story.md](./loch_flow_story.md)
 
 ### Documentation and Tutorial
 
